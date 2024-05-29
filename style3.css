@@ -1,0 +1,54 @@
+body {
+  font-family: Arial;
+  font-weight: 600;
+  font-style: normal;
+
+}
+
+
+p {
+  border-left: 1px solid black;
+  padding: 10px;
+  margin-bottom: 50px;
+  margin: 0 300px;
+  opacity: 0.5;
+}
+h1 {
+  padding: 10px;
+  margin: 0 300px;
+  opacity: 0.8;
+}
+
+h2 {
+  padding: 10px;
+  margin: 0 300px;
+  opacity: 0.8;
+}
+
+h3 {
+  padding: 10px;
+  margin: 0 300px;
+  opacity: 0.8;
+}
+
+ul {
+  padding: 10px;
+  margin: 0 300px;
+}
+
+ol {
+  padding: 10px;
+  margin: 0 300px;
+}
+
+blockquote
+{
+  padding: 10px;
+  margin: 0 300px;
+}
+
+img
+{
+  padding: 10px;
+  margin: 0 200px;
+}

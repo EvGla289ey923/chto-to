@@ -1,0 +1,53 @@
+body {
+  font-family: Arial;
+  font-weight: 600;
+  font-style: light;
+}
+
+.content {
+    margin: 0 300px;
+
+}
+
+p1 {
+  border-left: 1px solid black;
+  padding: 20px;
+  margin-bottom: -100px;
+  opacity: 0.5;
+  color: gray;
+}
+
+p2 {
+
+
+}
+
+h1, {
+  border-left: 1px solid black;
+  color: black;
+  text-decoration: underline;
+  font-family: serif;
+}
+
+h2 {
+  border-left: 1px solid black;
+  color: gray;
+  text-decoration: underline;
+  font-family: serif;
+}
+
+.big {
+  font-size: 40px;
+}
+
+.wide {
+  line-height: 80px;
+}
+
+.big.wide strong {
+  color: green;
+}
+
+#img1 {
+  weight: 100%;
+}

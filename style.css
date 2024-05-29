@@ -1,0 +1,35 @@
+body {
+  font-family: Arial;
+  font-weight: 600;
+  font-style: italic;
+  background: url('https://masterpiecer-images.s3.yandex.net/7d8747be667e11eebb6abeb332dff282:upscaled') no-repeat center;
+}
+
+p {
+  border-left: 1px solid black;
+  padding: 20px;
+  margin-bottom: -100px;
+  opacity: 0.5;
+}
+
+h1, h2 {
+  color: red;
+  text-decoration: underline;
+  font-family: serif;
+}
+
+.big {
+  font-size: 40px;
+}
+
+.wide {
+  line-height: 80px;
+}
+
+.big.wide strong {
+  color: green;
+}
+
+#img1 {
+  weight: 100%;
+}
